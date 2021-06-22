@@ -7,6 +7,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Sobre o projeto
+
+O projeto foi desenvolvido durante a semana Multistack da TreinaWeb e consiste num painel administrativo para CRUD de diaristas e retorno das diaristas cadastradas via API. Além das funcionalidades feitas na semana Multistack, estudei mais sobre o Laravel e inclui um sistema de autenticação com o Laravel Jetstream.
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
